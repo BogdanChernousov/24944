@@ -1,3 +1,3 @@
 all:
-  gcc -std=c99 9_task.c -o tst9
-  ./tst9 text.txt
+	gcc -std=c99 21_task.c -o 21_task
+	./21_task text.txt
